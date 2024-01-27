@@ -4,7 +4,7 @@ Implements RAG and Conversation using the ConversationalRetrievalChain of langch
 Loads <data_file>.md file and vectorizes and stores data in FIASS which is later used for RAG. <br />
 Maintains chat history to ensure conversation. <br />
 <br/>
-I have attempted to build on the original notebook by curiousily who has coded for a conversational chatbot using pre-trained Falcon-7b. The notebook can be found here: <br />
+I have attempted to build on the original notebook by Venelin Valkov who has coded for a conversational chatbot using pre-trained Falcon-7b. The notebook can be found here: <br />
 <br/>
 https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/11.chatbot-with-local-llm-falcon-7b.ipynb <br />
 <br/>
